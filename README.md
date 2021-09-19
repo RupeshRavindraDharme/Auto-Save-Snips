@@ -7,16 +7,16 @@ I encountered this issue everytime I did a custom screenshot and that is why I t
 ## What is Snip and Sketch?
 Windows program that enables you to custom capture screen and paste or save it.
 
-![snip](screenshots/snip.jpg)
+![snip](Screenshots/snip.jpg)
 
 ## What is the process to save the snip?
 1. Open the snip and sketch application or use the keyboard shortcut Win+Shift+S
 
-![issue1](screenshots/issue1.jpg)
+![issue1](Screenshots/issue1.jpg)
 
 2. Then click the desired Screenshot and click on the save button at the top right and choose a location(everytime!!).
 
-![issue2](screenshots/issue2.jpg)
+![issue2](Screenshots/issue2.jpg)
 
 I searched a lot to find a way to auto save the snips I take to a desired location but couldn't. So, I thought to do it on my own.
 
@@ -37,9 +37,9 @@ Now we just have to take a snip and preview it.
 It will be automatically saved in the desired location.
 
 Before screenshot
-![screenshot captured](screenshots/output1.jpg)
+![screenshot captured](Screenshots/output1.jpg)
 
 After Screenshot
-![automatically saved](screenshots/output2.jpg)
+![automatically saved](Screenshots/output2.jpg)
 
 Thank You😊
