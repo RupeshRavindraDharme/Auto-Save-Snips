@@ -31,7 +31,7 @@ class Handler(FileSystemEventHandler):
             return None
 
         elif event.event_type == 'created':
-            destination = 'C:/Users/HP/Pictures/Screenshots'
+            destination = 'C:/Users/HP/Rupesh/Projects/Destination'
             print("Received created event - %s." % event.src_path)
             if event.src_path[-3:] == 'png':
                 copy(event.src_path, destination)
